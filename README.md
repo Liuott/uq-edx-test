@@ -27,6 +27,7 @@ The code uses PyTorch's tensor operations to efficiently compute the points of t
 The fractal dimension of the Sierpinski triangle is log(3)/log(2), approximately 1.585. By analyzing the generated pattern, we can see that it has a self-similar structure, where each smaller triangle resembles the overall shape.
 
 **Using Ai model**：Google Gemini 
+i'm
 
 **Prompt**:
 
